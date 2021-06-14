@@ -131,6 +131,10 @@
     }
     /**********Half-Unit / Used in index.html**********/
     
+    text.highcharts-credits {
+        display: none;
+    }
+    
     .half-unit {
         margin-bottom: 30px;
         padding-bottom: 4px;
