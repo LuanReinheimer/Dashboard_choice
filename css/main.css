@@ -131,10 +131,6 @@
     }
     /**********Half-Unit / Used in index.html**********/
     
-    text.highcharts-credits {
-        display: none;
-    }
-    
     .half-unit {
         margin-bottom: 30px;
         padding-bottom: 4px;
@@ -144,6 +140,10 @@
         background-color: #3d3d3d;
         color: white;
         height: 130px;
+    }
+    
+    text.highcharts-credits {
+        display: none;
     }
     
     .half-unit:hover {
